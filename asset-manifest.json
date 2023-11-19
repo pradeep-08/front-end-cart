@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Dark-cart-front/static/css/main.ae81114d.css",
+    "main.js": "/Dark-cart-front/static/js/main.3df7ad04.js",
+    "static/media/Capture.PNG": "/Dark-cart-front/static/media/Capture.dc5be177c35d65102806.PNG",
+    "index.html": "/Dark-cart-front/index.html",
+    "main.ae81114d.css.map": "/Dark-cart-front/static/css/main.ae81114d.css.map",
+    "main.3df7ad04.js.map": "/Dark-cart-front/static/js/main.3df7ad04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae81114d.css",
+    "static/js/main.3df7ad04.js"
+  ]
+}
